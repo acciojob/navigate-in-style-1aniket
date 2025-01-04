@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+ .nav-bar {
+            background-color: #D3D3D3;
+            padding: 10px;
+        }
+
+        /* Style for the unordered list */
+        .nav-bar ul {
+            list-style: none; /* Removes bullets */
+            padding: 0; /* Removes default padding */
+            margin: 0; /* Removes default margin */
+        }
+
+        /* Style for list items */
+        .nav-bar ul li {
+            display: inline; /* Displays list items horizontally */
+            margin-right: 1rem; /* Adds space between items */
+        }
