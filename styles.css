@@ -6,8 +6,9 @@
 
         /* Style for the unordered list */
         .nav-bar ul {
+			display:flex;
             list-style: none; /* Removes bullets */
-            padding: 0; /* Removes default padding */
+            padding: 10px; /* Removes default padding */
             margin: 0; /* Removes default margin */
         }
 
